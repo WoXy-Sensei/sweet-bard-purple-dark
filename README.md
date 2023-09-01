@@ -4,6 +4,8 @@
 
 **Sweet Bard Purple Dark** is a customized version of the Sweet-Ambar-Blue-Dark theme for Linux GNOME. With this theme, you can uniquely customize your GNOME desktop.
 
+``original theme : https://www.gnome-look.org/p/1253385/``
+
 ## Installation
 
 You can use this theme by following these steps:
