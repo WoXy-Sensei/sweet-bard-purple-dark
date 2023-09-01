@@ -7,6 +7,7 @@
 ``original theme : https://www.gnome-look.org/p/1253385/``
 
 ## Installation
+!WARNING : **Only made for dark mode on gnome**
 
 You can use this theme by following these steps:
 
