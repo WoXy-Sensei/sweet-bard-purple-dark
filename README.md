@@ -19,7 +19,12 @@ You can use this theme by following these steps:
 ![Sample Screenshot 2](https://cdn.discordapp.com/attachments/858035865489506336/1147156101377310730/image.png)
 ![Sample Screenshot 2](https://cdn.discordapp.com/attachments/858035865489506336/1147156141713932338/image.png)
 ![Sample Screenshot 2](https://cdn.discordapp.com/attachments/858035865489506336/1147156331585884233/image.png)
+
+## Background
+
+![Background](background.jpg)
+
 ## Contributing
 
-If you'd like to contribute to this theme or report issues, please visit the [GitHub repo](https://github.com/your-username/Sweet-Bard-Purple-Dark) and open an issue or submit a pull request.
+If you'd like to contribute to this theme or report issues, please visit the [GitHub repo](https://github.com/WoXy-Sensei/Sweet-Bard-Purple-Dark) and open an issue or submit a pull request.
 
